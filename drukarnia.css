@@ -51,8 +51,3 @@ audio {
     background-position: center;
     display: none;
 }
-
-h1:hover + .hover-image,
-.hover-image:hover {
-    display: block;
-}
